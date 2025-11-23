@@ -15,11 +15,7 @@ Chat Scholar has two primary objectives.
 How it works:
 1.	Document Upload and Processing: Users upload PDF documents, and the application extracts the textual content.
 2.	Text Embedding and Semantic Search: The extracted text is processed, embeddings are generated, and a semantic search engine (using FAISS) allows for efficient retrieval of relevant information.
-3.	Question Answering: Students' questions are processed, compared to the indexed content, and the most relevant information is used to generate a comprehensive answer using the OpenAI LLM.
-4.	Essay Grading Rubric:
-•	Rubric Selection: Students can choose from pre-defined rubrics (e.g., IELTS, TOEFL) or upload custom rubrics created by their teachers.
-•	Essay Evaluation: The rubric tool analyses the student's essay against the selected rubric's criteria.
-•	Feedback Generation: Based on the analysis, Chat Scholar provides feedback on the essay's strengths and areas for improvement, highlighting specific criteria met or not met.
+
 Key Inputs: 
 For this particular project, we would need the below key inputs:
 •	Chat Scholar
