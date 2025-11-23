@@ -12,9 +12,6 @@ Leveraging the power of machine learning, natural language & Gen AI, this tool a
 Chat Scholar has two primary objectives.
 1.	Academic Research and Understanding: Chat Scholar provides clear and concise answers, summaries, and explanations tailored to the student's specific questions and the content of their documents.
 2.	Essay Grading Rubric: Teachers and instructors can create and upload their own custom rubrics to personalize essay evaluation and ensure alignment with specific course requirements.
-How it works:
-1.	Document Upload and Processing: Users upload PDF documents, and the application extracts the textual content.
-2.	Text Embedding and Semantic Search: The extracted text is processed, embeddings are generated, and a semantic search engine (using FAISS) allows for efficient retrieval of relevant information.
 
 Key Inputs: 
 For this particular project, we would need the below key inputs:
